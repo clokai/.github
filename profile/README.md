@@ -47,8 +47,6 @@ Our models are built to tackle high-stakes, specialized applications including:
 | :--- | :--- | :--- |
 | 🚀 [**clokai/clokAI**](https://github.com/clokai/clokAI) | Text Generation | Our flagship text generation architecture and research framework. |
 
-> 📄 **Publications Notice:** Research findings and architectural innovations are published publicly as they reach maturity. Internal methodologies and proprietary corporate components remain undisclosed.
-
 ---
 
 <p align="center">
