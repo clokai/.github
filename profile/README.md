@@ -6,8 +6,6 @@
 
 ## 👋 Introduction
 
-Welcome to **Clok AI**! We are an open, cutting-edge AI/ML community where users come together to drive core research, development, and build advanced systems ahead of the curve. If you are passionate about pushing the boundaries of machine learning and building next-generation technology, you are in the right place.
-
 **CLok AI** operates as a specialized research and development organization dedicated to creating custom neural architectures and pioneering novel training methodologies.
 
 ---
